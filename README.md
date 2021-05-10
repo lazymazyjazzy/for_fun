@@ -1,5 +1,5 @@
 # for_fun
-## Some projects I've created to test my beginner skills.
+## Some projects I've created to test my beginner skills on Python.
 
 [FindWords](https://github.com/lazymazyjazzy/for_fun/blob/main/findwords.py)
 : NYTimes Spelling Bee cheater with a word generator. Was taking too long to calculate and generate all words.
